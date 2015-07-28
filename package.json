@@ -1,6 +1,6 @@
 {
   "name": "says",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cross-platform 'say' command using Electron",
   "main": "index.js",
   "license": "MIT",
