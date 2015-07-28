@@ -1,0 +1,39 @@
+{
+  "name": "says",
+  "version": "1.0.0",
+  "description": "cross-platform 'say' command using Electron",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./cli.js",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "hihat": "^2.4.0",
+    "minimist": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "say",
+    "speech",
+    "text",
+    "talk",
+    "talks",
+    "talking",
+    "voice",
+    "synthesis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/says.git"
+  },
+  "homepage": "https://github.com/Jam3/says",
+  "bugs": {
+    "url": "https://github.com/Jam3/says/issues"
+  }
+}
