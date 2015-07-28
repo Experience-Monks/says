@@ -40,6 +40,13 @@ says --voice=whisper 'i see dead people'
 says --voice=daniel 'bond, james bond'
 ```
 
+Another example, using random [sun-tzu-quotes](https://github.com/mattdesl/sun-tzu-quotes).
+
+```sh
+npm install sun-tzu-quotes -g
+says --voice=daniel `sun-tzu-quotes`
+```
+
 ## License
 
 MIT, see [LICENSE.md](http://github.com/Jam3/says/blob/master/LICENSE.md) for details.
